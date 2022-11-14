@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/riteshPortfolio/static/css/main.4b33b7c3.css",
+    "main.js": "/riteshPortfolio/static/js/main.4fed6b42.js",
+    "static/js/787.db99e565.chunk.js": "/riteshPortfolio/static/js/787.db99e565.chunk.js",
+    "index.html": "/riteshPortfolio/index.html",
+    "main.4b33b7c3.css.map": "/riteshPortfolio/static/css/main.4b33b7c3.css.map",
+    "main.4fed6b42.js.map": "/riteshPortfolio/static/js/main.4fed6b42.js.map",
+    "787.db99e565.chunk.js.map": "/riteshPortfolio/static/js/787.db99e565.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4b33b7c3.css",
+    "static/js/main.4fed6b42.js"
+  ]
+}
